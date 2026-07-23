@@ -5,7 +5,7 @@ export const WHATSAPP_LINK =
   'https://wa.me/2348087858857?text=Hi%2C%20Fatai.%20I%20want%20to%20build%20a%20website%20for%20my%20Business'
 
 export const CTAS = {
-  hero: "Yes, Let's Build My Website",
+  hero: 'Yes, I Want to Look Credible Online',
   afterPrice: 'Yes, I Want to Claim This Offer',
   afterGuarantee: 'Start My Website — Risk-Free',
   scarcity: 'Reserve One of the 5 Spots',
