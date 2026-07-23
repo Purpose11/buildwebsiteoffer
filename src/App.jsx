@@ -79,16 +79,16 @@ function GuaranteeBullet({ children }) {
 function App() {
   return (
     <div className="overflow-x-hidden bg-white">
-      <main className="mx-auto w-full max-w-[680px] px-5 pb-12 pt-8 sm:px-6 sm:pb-16 sm:pt-12 md:px-8">
-        <header className="relative -mx-5 mb-10 border-b border-neutral-200/70 bg-gradient-to-b from-neutral-50 via-white to-white px-5 pb-10 pt-6 sm:-mx-6 sm:mb-12 sm:px-6 sm:pb-12 sm:pt-8 md:-mx-8 md:px-8">
+      <main className="mx-auto w-full max-w-[680px] px-5 pb-12 sm:px-6 sm:pb-16 md:px-8">
+        <header className="relative -mx-5 mb-10 border-b border-neutral-200/70 bg-gradient-to-b from-neutral-50 via-white to-white px-5 pb-10 pt-4 sm:-mx-6 sm:mb-12 sm:px-6 sm:pb-12 sm:pt-5 md:-mx-8 md:px-8">
           <div className="mx-auto max-w-[620px] text-center">
-            <p className="mb-5 mt-2 font-sans text-[11px] font-semibold uppercase tracking-[0.22em] text-red-800/90 sm:mb-6 sm:text-xs">
+            <p className="mb-5 font-sans text-[11px] font-semibold uppercase tracking-[0.22em] text-red-800/90 sm:mb-6 sm:text-xs">
               Stop Losing Customers!
             </p>
 
             <h1 className="text-balance mb-2 font-serif text-[2.125rem] font-bold leading-[1.12] tracking-[-0.025em] text-neutral-900 sm:mb-3 sm:text-[2.75rem] md:text-[3.25rem] md:leading-[1.08] lg:text-[3.5rem]">
               Get A Credible Business Website in{' '}
-              <span className="font-bold italic text-red-900/90">Less Than 24 Hours</span>
+              <span className="font-bold italic text-red-800">Less Than 24 Hours</span>
             </h1>
 
             <p className="mx-auto mb-6 max-w-lg font-sans text-[17px] font-medium leading-snug tracking-[0.01em] text-neutral-500 sm:mb-7 sm:text-lg md:text-xl">
@@ -191,7 +191,7 @@ function App() {
           contact you.
         </Line>
 
-        <h3 className={`${subheadingClass} text-center !font-bold !text-wrap whitespace-nowrap text-[1.05rem] min-[420px]:text-[1.15rem] sm:text-[1.35rem] md:text-[1.5rem]`}>
+        <h3 className={`${headingClass} text-center !font-bold !text-wrap whitespace-nowrap text-[1.05rem] min-[420px]:text-[1.15rem] sm:text-[1.35rem] md:text-[1.5rem]`}>
           And here's what this website can do for your business;
         </h3>
 
