@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-label="Website">
+  <defs>
+    <linearGradient id="bg" x1="28" y1="18" x2="152" y2="162" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#c62828"/>
+      <stop offset="100%" stop-color="#8b1a1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="180" height="180" rx="38" fill="url(#bg)"/>
+  <rect x="34" y="44" width="112" height="96" rx="12" fill="#ffffff"/>
+  <rect x="34" y="44" width="112" height="30" rx="12" fill="#f3f4f6"/>
+  <rect x="34" y="64" width="112" height="10" fill="#e5e7eb"/>
+  <circle cx="52" cy="59" r="5" fill="#ef4444"/>
+  <circle cx="68" cy="59" r="5" fill="#f59e0b"/>
+  <circle cx="84" cy="59" r="5" fill="#22c55e"/>
+  <rect x="50" y="86" width="48" height="9" rx="4.5" fill="#d1d5db"/>
+  <rect x="50" y="103" width="76" height="9" rx="4.5" fill="#e5e7eb"/>
+  <rect x="50" y="120" width="59" height="9" rx="4.5" fill="#e5e7eb"/>
+  <circle cx="118" cy="112" r="19" fill="none" stroke="#991b1b" stroke-width="5"/>
+  <ellipse cx="118" cy="112" rx="8" ry="19" fill="none" stroke="#991b1b" stroke-width="4"/>
+  <path d="M99 104h38M99 112h38M99 120h38" stroke="#991b1b" stroke-width="3.5" stroke-linecap="round"/>
+</svg>

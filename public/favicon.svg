@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Website">
+  <defs>
+    <linearGradient id="bg" x1="5" y1="3" x2="27" y2="29" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#c62828"/>
+      <stop offset="100%" stop-color="#8b1a1a"/>
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="7" fill="url(#bg)"/>
+  <rect x="6" y="8" width="20" height="17" rx="2.2" fill="#ffffff"/>
+  <rect x="6" y="8" width="20" height="5.2" rx="2.2" fill="#f3f4f6"/>
+  <rect x="6" y="11.2" width="20" height="2" fill="#e5e7eb"/>
+  <circle cx="9.1" cy="10.6" r="0.85" fill="#ef4444"/>
+  <circle cx="11.7" cy="10.6" r="0.85" fill="#f59e0b"/>
+  <circle cx="14.3" cy="10.6" r="0.85" fill="#22c55e"/>
+  <rect x="9" y="15.2" width="8.5" height="1.6" rx="0.8" fill="#d1d5db"/>
+  <rect x="9" y="18.2" width="13.5" height="1.6" rx="0.8" fill="#e5e7eb"/>
+  <rect x="9" y="21.2" width="10.5" height="1.6" rx="0.8" fill="#e5e7eb"/>
+  <circle cx="21" cy="20.5" r="3.4" fill="none" stroke="#991b1b" stroke-width="1.3"/>
+  <ellipse cx="21" cy="20.5" rx="1.4" ry="3.4" fill="none" stroke="#991b1b" stroke-width="1.1"/>
+  <path d="M17.8 19.2h6.4M17.8 20.5h6.4M17.8 21.8h6.4" stroke="#991b1b" stroke-width="0.9" stroke-linecap="round"/>
+</svg>
